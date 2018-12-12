@@ -7,7 +7,7 @@ This repo contains additional material for the paper, which is currenty [under r
 Test result data for "Vecsigrafo: Corpus-based Word-Concept Embeddings"
 
 ## Word-similarity ablation study
-As part of evaluating Vecsigrafo, we studied how variations to Vecsigrafo-based embeddings affect the quality of the lexical and semantic embeddings. We did this by analyzing the various results using word-similarity tasks,  which  we  extend  to  also  take  into  account concept-similarity. We provide a tsv file with results.
+As part of evaluating Vecsigrafo, we studied how variations to Vecsigrafo-based embeddings affect the quality of the lexical and semantic embeddings. We did this by analyzing the various results using word-similarity tasks,  which  we  extend  to  also  take  into  account concept-similarity. We provide a [tsv file with results](https://github.com/HybridNLP2018/vecsigrafo-paper/blob/master/vecsigrafo-ablation-study-wordsim-20180816.tsv).
 
 The fields in the tsv file are:
   * `dataset`: the name of the word similarity dataset
