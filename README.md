@@ -1,6 +1,6 @@
 # Additional material for "Vecsigrafo: Corpus-based Word-Concept Embeddings"
 
-This repo contains additional material for the paper, which is currenty [under review](http://www.semantic-web-journal.net/content/vecsigrafo-corpus-based-word-concept-embeddings-bridging-statistic-symbolic-representational).
+This repo contains additional material for the paper, which has been published at the [Semantic Web Journal](http://semantic-web-journal.net/content/vecsigrafo-corpus-based-word-concept-embeddings-bridging-statistic-symbolic-1).
 
 # Evaluation Results
 
