@@ -28,7 +28,7 @@ We presented a [tutorial on Vecsigrafo and related technologies at ISWC 2018](ht
 
 If this work is relevant for your research, please cite the following paper:
 
-<em>Ronald Denaux and Jose Manuel Gomez-Perez. 2019. Vecsigrafo: Corpus-based Word-Concept Embeddings. Semantic Web (2019), 1–28. https://doi.org/10.3233/SW-190361</em>
+<em>Ronald Denaux and Jose Manuel Gomez-Perez. 2019. Vecsigrafo: Corpus-based Word-Concept Embeddings. Semantic Web Journal, vol. 10, no. 5, pp. 68–96. https://doi.org/10.3233/SW-190361</em>
 
 You can use the following BibTex entry:
 <pre>@article{Denaux2019Vecsigrafo,
@@ -36,5 +36,5 @@ title={Vecsigrafo: Corpus-based Word-Concept Embeddings},
 author={Ronald Denaux and Jose Manuel Gomez-Perez},
 journal={Semantic Web},
 year={2019},
-pages={1-28},
+pages={68-96},
 doi = {10.3233/SW-190361}}</pre>
