@@ -23,3 +23,18 @@ The fields in the tsv file are:
 # Tutorial on Vecsigrafo
 
 We presented a [tutorial on Vecsigrafo and related technologies at ISWC 2018](http://expertsystemlab.com/hybridNLP18/). The materials for the tutorial are based on executable Jupyter notebooks available from the [tutorial repo](https://github.com/HybridNLP2018/tutorial) and can be executed from [Google Colaboratory](https://colab.research.google.com).
+
+# How to cite
+
+If this work is relevant for your research, please cite the following paper:
+
+<em>Ronald Denaux and Jose Manuel Gomez-Perez. 2019. Vecsigrafo: Corpus-based Word-Concept Embeddings. Semantic Web (2019), 1–28. https://doi.org/10.3233/SW-190361</em>
+
+You can use the following BibTex entry:
+<pre>@article{Denaux2019Vecsigrafo,
+title={Vecsigrafo: Corpus-based Word-Concept Embeddings},
+author={Ronald Denaux and Jose Manuel Gomez-Perez},
+journal={Semantic Web},
+year={2019},
+pages={1-28},
+doi = {10.3233/SW-190361}}</pre>
